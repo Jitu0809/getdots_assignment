@@ -29,8 +29,8 @@ It allows users to **search items by name** and **filter them by category**, pro
 ## 🚀 Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/modern-searchbar.git
-cd modern-searchbar
+git clone https://github.com/Jitu0809/getdots_assignment.git
+cd getdots_assignment
 
 
 2. Install dependencies
@@ -51,10 +51,27 @@ npm run dev
 
 ---
 
-## 📸 Demo
+## 📸 Screenshots
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/3730fdea-92de-428d-9603-0d40396f0dec" />
 <img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/999fcf73-f159-4c99-bc4c-f0bfe0b1acbe" />
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/379815c3-988e-4a17-abf0-de0f6916d340" />
 
 
+---
+
+
+## 🚀 Demo  
+👉 **[Live Demo Here](https://getdots-assignment.vercel.app)**
+
+
+---
+
+
+
+## 🎨 Design Credits  
+
+The search bar and results animation design is inspired by:  
+[Shuma87 on Dribbble](https://dribbble.com/Shuma87)  
+
+🔗 [Original Design](https://dribbble.com/shots/17399694-Search-Results-Animation)
