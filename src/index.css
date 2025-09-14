@@ -1,0 +1,22 @@
+:root {
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --gray-color: #cccccc;
+  --dark-gray-color: #999999;
+  --very-light-gray-color: #efefef;
+  --light-gray-color: #dddddd;
+  --success-color: #168713;
+  --warning-color: #DF9B00;
+  --danger-color: #E41B00;
+}
+
+body{
+  cursor: none !important;
+}
+
+*{
+  cursor: none !important;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,54 @@
+.container{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-block: 16px;
+}
+
+.skeleton{
+  background: linear-gradient(
+    90deg,
+    var(--gray-color) 25%,
+    var(--light-gray-color) 50%,
+    var(--gray-color) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 4px;
+}
+
+.image{
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+}
+
+.line_wrapper{
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.line{
+  height: 12px;
+  border-radius: 4px;
+}
+
+.short{
+  width: 150px;
+}
+
+.long{
+  width: 250px;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
